@@ -1,0 +1,14 @@
+package witharraylist;
+
+public class GoldCustomer extends Customer{
+	
+	double saleRatio;
+
+	public GoldCustomer() {
+		customerGrade = "Gold";
+		bonusRatio = 0.02;
+		saleRatio = 0.1;
+	}
+	
+	public 
+}

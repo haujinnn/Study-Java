@@ -1,0 +1,11 @@
+package inheritance;
+
+public class GoldCustomer {
+	public int calcPrice(int price) {
+		return super.clacPrice(price);
+	}
+	
+	public String showCustomerInfo() {
+		return super.showCustomerInfo();
+	}
+}
