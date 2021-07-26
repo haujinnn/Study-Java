@@ -19,7 +19,4 @@ public class Student {
 		math = new Subject();
 	}
 	
-	public void setKorea(String name, int score) {
-		korea.set
-	}
 }
