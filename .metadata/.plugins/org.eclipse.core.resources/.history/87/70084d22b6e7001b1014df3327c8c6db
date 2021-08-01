@@ -1,9 +1,0 @@
-package witharraylist;
-
-public class GoldCustomer extends Customer{
-
-	public GoldCustomer() {
-		customerGrade = "Gold";
-		
-	}
-}
